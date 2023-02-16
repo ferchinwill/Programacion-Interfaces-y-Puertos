@@ -1,0 +1,4 @@
+luis, isc, 20, jugar
+alonso, iis, 22, salir
+francisco, ic, 23, estudiar
+ariel, isc, 22, ver series
